@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-[test CV](./files/CurriculumVitae_minami_2018.pdf)
+[test CV](https://yutominami.github.io/files/CurriculumVitae_minami_2018.pdf)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
