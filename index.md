@@ -10,6 +10,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 [test CV](https://yutominami.github.io/files/CurriculumVitae_minami_2018.pdf)
 -->
+#[Presentations](./presentations)
+
 
 [My CV](./files/CurriculumVitae_minami_2018.pdf)
 
