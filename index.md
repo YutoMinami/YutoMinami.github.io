@@ -16,7 +16,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 # [Presentations](./presentations)
 
 
-[My CV](./files/CurriculumVitae_minami_2018.pdf)
+[My CV (pdf file)](./files/CurriculumVitae_minami_2018.pdf)
 
 <!--
 

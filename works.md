@@ -1,3 +1,3 @@
 # Works
 
-[Publication lists](./files/PublicationList.pdf)
+[Publication lists(pdf file)](./files/PublicationList.pdf)
