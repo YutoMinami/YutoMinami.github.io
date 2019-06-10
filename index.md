@@ -14,12 +14,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 [test CV](https://yutominami.github.io/files/CurriculumVitae_minami_2018.pdf)
 -->
 
+# [Who am I?](./WhoAmI)
+
 # [Works](./works)
 
 # [Presentations](./presentations)
 
-
-[My CV (pdf file)](./files/CurriculumVitae_minami_2018.pdf)
 
 <!--
 
