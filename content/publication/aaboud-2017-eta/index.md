@@ -1,0 +1,17 @@
+---
+title: Search for diboson resonances with boson-tagged jets in $pp$ collisions at
+  $sqrts=13$ TeV with the ATLAS detector
+date: '2018-01-01'
+draft: true
+publishDate: '2020-10-05T22:46:39.379843Z'
+authors:
+- Morad Aaboud
+- ' others'
+publication_types:
+- 2
+abstract: ''
+featured: false
+publication: '*Phys.Lett.B*'
+doi: 10.1016/j.physletb.2017.12.011
+---
+
