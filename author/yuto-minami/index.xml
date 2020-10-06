@@ -5,12 +5,44 @@
     <link>/author/yuto-minami/</link>
       <atom:link href="/author/yuto-minami/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuto Minami</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Oct 2020 22:09:14 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Yuto Minami</title>
       <link>/author/yuto-minami/</link>
     </image>
+    
+    <item>
+      <title>Determination of miscalibrated polarization angles from observed cosmic microwave background and foreground $EB$ power spectra: Application to partial-sky observation</title>
+      <link>/publication/minami-2020-xfg/</link>
+      <pubDate>Mon, 05 Oct 2020 22:09:14 +0000</pubDate>
+      <guid>/publication/minami-2020-xfg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing Axion-like Particles via CMB Polarization</title>
+      <link>/publication/fujita-minami-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/fujita-minami-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous determination of the cosmic birefringence and miscalibrated polarization angles II: Including cross frequency spectra</title>
+      <link>/publication/minami-komatsu-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/minami-komatsu-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous determination of the cosmic birefringence and miscalibrated polarization angles from CMB experiments</title>
+      <link>/publication/minami-2019-ruj/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/minami-2019-ruj/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

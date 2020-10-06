@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> others | Yuto Minami&#39;s Web Page</title>
+    <link>/author/others/</link>
+      <atom:link href="/author/others/index.xml" rel="self" type="application/rss+xml" />
+    <description> others</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title> others</title>
+      <link>/author/others/</link>
+    </image>
+    
+    <item>
+      <title>Evidence for the Cross-correlation between Cosmic Microwave Background Polarization Lensing from POLARBEAR and Cosmic Shear from Subaru Hyper Suprime-Cam</title>
+      <link>/publication/namikawa-2019-gtc/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/namikawa-2019-gtc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search for squarks and gluinos in final states with jets and missing transverse momentum at $sqrts =$ 13 TeV with the ATLAS detector</title>
+      <link>/publication/aaboud-2016-zdn/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/aaboud-2016-zdn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
