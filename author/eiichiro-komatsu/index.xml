@@ -5,12 +5,20 @@
     <link>/author/eiichiro-komatsu/</link>
       <atom:link href="/author/eiichiro-komatsu/index.xml" rel="self" type="application/rss+xml" />
     <description>Eiichiro Komatsu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Eiichiro Komatsu</title>
       <link>/author/eiichiro-komatsu/</link>
     </image>
+    
+    <item>
+      <title>New Extraction of the Cosmic Birefringence from the Planck 2018 Polarization Data</title>
+      <link>/publication/minami-2020-odp/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/minami-2020-odp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Simultaneous determination of the cosmic birefringence and miscalibrated polarization angles II: Including cross frequency spectra</title>
