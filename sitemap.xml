@@ -2,10 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/</loc>
+    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/cmb/</loc>
+    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/cosmic-birefringence/</loc>
+    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/patchy-reionization-anisotropic-cosmic-birefringence/</loc>
+    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/patchy-reionization/</loc>
+    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/category/research-note/</loc>
+    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/yuto-minami/</loc>
+    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication-type/2/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/e.-de-la-hoz/</loc>
@@ -21,9 +51,6 @@
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/polarbear-2024vel/</loc>
@@ -93,9 +120,6 @@
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/y.-minami/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/yuto-minami/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication-type/1/</loc>
@@ -470,13 +494,7 @@
     <loc>/publication/aaboud-2016-zdn/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-  </url><url>
-    <loc>/post/</loc>
-  </url><url>
     <loc>/talk/</loc>
-  </url><url>
-    <loc>/tags/</loc>
   </url><url>
     <loc>/author/yuto-minami/</loc>
   </url>

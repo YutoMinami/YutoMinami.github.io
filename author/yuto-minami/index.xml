@@ -5,12 +5,25 @@
     <link>/author/yuto-minami/</link>
       <atom:link href="/author/yuto-minami/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuto Minami</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Yuto Minami</title>
       <link>/author/yuto-minami/</link>
     </image>
+    
+    <item>
+      <title>Methodological note on patchy reionization and anisotropic cosmic birefringence</title>
+      <link>/post/patchy-reionization-anisotropic-cosmic-birefringence/</link>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>/post/patchy-reionization-anisotropic-cosmic-birefringence/</guid>
+      <description>&lt;p&gt;I wrote a methodological note on how to interpret anisotropic cosmic birefringence constraints when an effective contribution from patchy reionization is present.&lt;/p&gt;
+&lt;p&gt;The note emphasizes that current anisotropic cosmic birefringence constraints should be read as constraints on the total birefringence power, rather than automatically as limits on a single ALP-induced fluctuation component. It also documents why finite-width visibility averaging is essential: thin-shell estimates can make the patchy contribution look more important than it remains after a more physical treatment.&lt;/p&gt;
+&lt;p&gt;The full note is available on GitHub:&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/YutoMinami/patchy_reionization_-anisotropic_cosmic_birefringence/blob/main/METHODOLOGICAL_NOTE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Methodological Note on Interpreting Anisotropic Cosmic Birefringence Constraints in the Presence of Patchy Reionization&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Extended delta-map: A map-based foreground removal method for CMB polarization observations</title>
