@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shunsuke Adachi | Yuto Minami&#39;s Web Page</title>
+    <link>/author/shunsuke-adachi/</link>
+      <atom:link href="/author/shunsuke-adachi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shunsuke Adachi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Shunsuke Adachi</title>
+      <link>/author/shunsuke-adachi/</link>
+    </image>
+    
+    <item>
+      <title>Exploration of the polarization angle variability of the Crab Nebula with POLARBEAR and its application to the search for axionlike particles</title>
+      <link>/publication/polarbear-2024vel/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/polarbear-2024vel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraints on axionlike polarization oscillations in the cosmic microwave background with POLARBEAR</title>
+      <link>/publication/polarbear-2023ric/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/polarbear-2023ric/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

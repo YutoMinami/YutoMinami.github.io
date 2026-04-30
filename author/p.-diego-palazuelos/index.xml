@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Diego-Palazuelos | Yuto Minami&#39;s Web Page</title>
+    <link>/author/p.-diego-palazuelos/</link>
+      <atom:link href="/author/p.-diego-palazuelos/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Diego-Palazuelos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>P. Diego-Palazuelos</title>
+      <link>/author/p.-diego-palazuelos/</link>
+    </image>
+    
+    <item>
+      <title>Robustness of cosmic birefringence measurement against Galactic foreground emission and instrumental systematics</title>
+      <link>/publication/diego-palazuelos-2022cnh/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/diego-palazuelos-2022cnh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cosmic Birefringence from Planck Public Release 4</title>
+      <link>/publication/diego-palazuelos-2022mcp/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/diego-palazuelos-2022mcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cosmic Birefringence from the Planck Data Release 4</title>
+      <link>/publication/diego-palazuelos-2022dsq/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/diego-palazuelos-2022dsq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

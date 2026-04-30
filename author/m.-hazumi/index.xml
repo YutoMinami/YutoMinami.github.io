@@ -5,12 +5,28 @@
     <link>/author/m.-hazumi/</link>
       <atom:link href="/author/m.-hazumi/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Hazumi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>M. Hazumi</title>
       <link>/author/m.-hazumi/</link>
     </image>
+    
+    <item>
+      <title>Characterization of a half-wave plate for cosmic microwave background circular polarization measurement with POLARBEAR</title>
+      <link>/publication/fujino-2023iru/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/fujino-2023iru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LiteBIRD: JAXA&#39;s new strategic L-class mission for all-sky surveys of cosmic microwave background polarization</title>
+      <link>/publication/litebird-2020khw/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/litebird-2020khw/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Measurement of the Cosmic Microwave Background B -mode Polarization Power Spectrum at Subdegree Scales from Two Years of polarbear Data</title>

@@ -5,12 +5,172 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>LiteBIRD science goals and forecasts: constraining isotropic cosmic birefringence</title>
+      <link>/publication/litebird-2025yfb/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/litebird-2025yfb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploration of the polarization angle variability of the Crab Nebula with POLARBEAR and its application to the search for axionlike particles</title>
+      <link>/publication/polarbear-2024vel/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/polarbear-2024vel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of a half-wave plate for cosmic microwave background circular polarization measurement with POLARBEAR</title>
+      <link>/publication/fujino-2023iru/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/fujino-2023iru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraints on axionlike polarization oscillations in the cosmic microwave background with POLARBEAR</title>
+      <link>/publication/polarbear-2023ric/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/polarbear-2023ric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extended delta-map: A map-based foreground removal method for CMB polarization observations</title>
+      <link>/publication/minami-2022zmq/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/minami-2022zmq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing Cosmic Inflation with the LiteBIRD Cosmic Microwave Background Polarization Survey</title>
+      <link>/publication/litebird-2022cnt/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/litebird-2022cnt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustness of cosmic birefringence measurement against Galactic foreground emission and instrumental systematics</title>
+      <link>/publication/diego-palazuelos-2022cnh/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/diego-palazuelos-2022cnh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Status of the search for $^48$ Ca double beta decay with CANDLES</title>
+      <link>/publication/minami-2023gsb/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/minami-2023gsb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The status of $^48$Ca production by laser isotope separation for the study of neutrino-less double beta decay</title>
+      <link>/publication/rittirong-2023kuy/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/rittirong-2023kuy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can primordial parity violation explain the observed cosmic birefringence?</title>
+      <link>/publication/fujita-2022qlk/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/fujita-2022qlk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cosmic Birefringence from the Planck Data Release 4</title>
+      <link>/publication/diego-palazuelos-2022dsq/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/diego-palazuelos-2022dsq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cosmology intertwined: A review of the particle physics, astrophysics, and cosmology associated with the cosmological tensions and anomalies</title>
+      <link>/publication/abdalla-2022yfr/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/abdalla-2022yfr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of the low frequency telescope focal plane detector modules for LiteBIRD</title>
+      <link>/publication/litebird-2022tye/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/litebird-2022tye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Upper Limit on Degree-scale CMB B-mode Polarization Power from the 670 Square-degree POLARBEAR Survey</title>
+      <link>/publication/polarbear-2022dxa/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/polarbear-2022dxa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-flight polarization angle calibration for LiteBIRD: blind challenge and cosmological implications</title>
+      <link>/publication/litebird-2021hlz/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/litebird-2021hlz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optical Characterization of OMT-Coupled TES Bolometers for LiteBIRD</title>
+      <link>/publication/litebird-2022yfe/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/litebird-2022yfe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method for rapid performance validation of large TES bolometer array for POLARBEAR-2A using a coherent millimeter-wave source</title>
+      <link>/publication/segawa-2021uxz/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/segawa-2021uxz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing axionlike particles via cosmic microwave background polarization</title>
+      <link>/publication/fujita-minami-2020/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/fujita-minami-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulations of systematic effects arising from cosmic rays in the LiteBIRD space telescope, and effects on the measurements of CMB B-modes</title>
+      <link>/publication/stever-2021xes/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/stever-2021xes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Status of $^48$Ca double beta decay search in CANDLES</title>
+      <link>/publication/minami-2021whn/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/minami-2021whn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>New Extraction of the Cosmic Birefringence from the Planck 2018 Polarization Data</title>
@@ -25,6 +185,54 @@
       <link>/publication/minami-2020-xfg/</link>
       <pubDate>Mon, 05 Oct 2020 22:09:14 +0000</pubDate>
       <guid>/publication/minami-2020-xfg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Measurement of the CMB $E$-mode Angular Power Spectrum at Subdegree Scales from670 Square Degrees of POLARBEAR Data</title>
+      <link>/publication/polarbear-2020lii/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/polarbear-2020lii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deployment of Polarbear-2A</title>
+      <link>/publication/kaneko-2020voj/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/kaneko-2020voj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detector fabrication development for the LiteBIRD satellite mission</title>
+      <link>/publication/litebirdjointstudygroup-2020pci/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/litebirdjointstudygroup-2020pci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LiteBIRD: JAXA&#39;s new strategic L-class mission for all-sky surveys of cosmic microwave background polarization</title>
+      <link>/publication/litebird-2020khw/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/litebird-2020khw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overview of the Medium and High Frequency Telescopes of the LiteBIRD satellite mission</title>
+      <link>/publication/litebird-2020zfx/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/litebird-2020zfx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Results of gravitational lensing and primordial gravitational waves from the POLARBEAR experiment</title>
+      <link>/publication/polarbear-2020awk/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/polarbear-2020awk/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,52 @@
     <link>/author/yuto-minami/</link>
       <atom:link href="/author/yuto-minami/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuto Minami</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Yuto Minami</title>
       <link>/author/yuto-minami/</link>
     </image>
+    
+    <item>
+      <title>Extended delta-map: A map-based foreground removal method for CMB polarization observations</title>
+      <link>/publication/minami-2022zmq/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/minami-2022zmq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Status of the search for $^48$ Ca double beta decay with CANDLES</title>
+      <link>/publication/minami-2023gsb/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/minami-2023gsb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can primordial parity violation explain the observed cosmic birefringence?</title>
+      <link>/publication/fujita-2022qlk/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/fujita-2022qlk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing axionlike particles via cosmic microwave background polarization</title>
+      <link>/publication/fujita-minami-2020/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/fujita-minami-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Status of $^48$Ca double beta decay search in CANDLES</title>
+      <link>/publication/minami-2021whn/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/minami-2021whn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>New Extraction of the Cosmic Birefringence from the Planck 2018 Polarization Data</title>
@@ -25,14 +65,6 @@
       <link>/publication/minami-2020-xfg/</link>
       <pubDate>Mon, 05 Oct 2020 22:09:14 +0000</pubDate>
       <guid>/publication/minami-2020-xfg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probing Axion-like Particles via CMB Polarization</title>
-      <link>/publication/fujita-minami-2020/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/fujita-minami-2020/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>/author/a.-t.-lee/</link>
       <atom:link href="/author/a.-t.-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>A. T. Lee</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>A. T. Lee</title>
       <link>/author/a.-t.-lee/</link>
     </image>
+    
+    <item>
+      <title>Characterization of a half-wave plate for cosmic microwave background circular polarization measurement with POLARBEAR</title>
+      <link>/publication/fujino-2023iru/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/fujino-2023iru/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Measurement of the Cosmic Microwave Background B -mode Polarization Power Spectrum at Subdegree Scales from Two Years of polarbear Data</title>

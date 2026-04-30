@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Adachi | Yuto Minami&#39;s Web Page</title>
+    <link>/author/s.-adachi/</link>
+      <atom:link href="/author/s.-adachi/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Adachi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>S. Adachi</title>
+      <link>/author/s.-adachi/</link>
+    </image>
+    
+    <item>
+      <title>Improved Upper Limit on Degree-scale CMB B-mode Polarization Power from the 670 Square-degree POLARBEAR Survey</title>
+      <link>/publication/polarbear-2022dxa/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/polarbear-2022dxa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Measurement of the CMB $E$-mode Angular Power Spectrum at Subdegree Scales from670 Square Degrees of POLARBEAR Data</title>
+      <link>/publication/polarbear-2020lii/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/polarbear-2020lii/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

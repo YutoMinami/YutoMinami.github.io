@@ -5,12 +5,20 @@
     <link>/author/kiyotomo-ichiki/</link>
       <atom:link href="/author/kiyotomo-ichiki/index.xml" rel="self" type="application/rss+xml" />
     <description>Kiyotomo Ichiki</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Kiyotomo Ichiki</title>
       <link>/author/kiyotomo-ichiki/</link>
     </image>
+    
+    <item>
+      <title>Extended delta-map: A map-based foreground removal method for CMB polarization observations</title>
+      <link>/publication/minami-2022zmq/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/minami-2022zmq/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Simultaneous determination of the cosmic birefringence and miscalibrated polarization angles from CMB experiments</title>
