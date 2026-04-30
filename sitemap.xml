@@ -5,28 +5,10 @@
     <loc>/authors/</loc>
     <lastmod>2026-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/cmb/</loc>
-    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/cosmic-birefringence/</loc>
-    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/post/patchy-reionization-anisotropic-cosmic-birefringence/</loc>
     <lastmod>2026-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/patchy-reionization/</loc>
-    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/post/</loc>
-    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/category/research-note/</loc>
-    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2026-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/yuto-minami/</loc>
@@ -494,7 +476,11 @@
     <loc>/publication/aaboud-2016-zdn/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/categories/</loc>
+  </url><url>
     <loc>/talk/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url><url>
     <loc>/author/yuto-minami/</loc>
   </url>
